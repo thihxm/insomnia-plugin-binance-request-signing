@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-binance-signing",
+  "version": "1.0.0",
+  "author": "thihxm",
+  "license": "ISC",
+  "description": "An insomnia plugin to sign Binance API calls.",
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "Binance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thihxm/insomnia-plugin-binance-signing.git"
+  },
+  "main": "src/main.js",
+  "insomnia": {
+    "name": "binance-signing",
+    "displayName": "Binance Signing",
+    "description": "An insomnia plugin to sign Binance API calls.",
+    "publisher": {
+      "name": "thihxm"
+    },
+    "unlisted": false
+  },
+  "dependencies": {}
+}
