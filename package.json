@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-binance-signing",
+  "name": "insomnia-plugin-binance-request-signing",
   "version": "1.0.0",
   "author": "thihxm",
   "license": "ISC",
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thihxm/insomnia-plugin-binance-signing.git"
+    "url": "git+https://github.com/thihxm/insomnia-plugin-binance-request-signing.git"
   },
   "main": "src/main.js",
   "insomnia": {
-    "name": "binance-signing",
-    "displayName": "Binance Signing",
+    "name": "binance-request-signing",
+    "displayName": "Binance API Request Signing",
     "description": "An insomnia plugin to sign Binance API calls.",
     "publisher": {
       "name": "thihxm"
