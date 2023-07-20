@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-binance-request-signing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "thihxm",
   "license": "ISC",
   "description": "An insomnia plugin to sign Binance API calls.",
