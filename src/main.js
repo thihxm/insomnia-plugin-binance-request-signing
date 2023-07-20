@@ -1,7 +1,7 @@
 const { generateSignature, createHtmlElementWith } = require('./utils')
 
 const binanceURLRegex = new RegExp(
-  '(api[1-4]?(-gcp)?.binance.com)|(testnet.binance.vision)'
+  '(api[1-4]?(-gcp)?.binance.com)|(testnet.binance.vision)|(testnet.binancefuture.com)'
 )
 
 // A request hook will be run before sending the request to API, but after everything else is finalized
